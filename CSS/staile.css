@@ -1,0 +1,14 @@
+table{
+    margin: 0  auto;
+    width: 600px;
+    height:200px;
+}
+table,th,td{
+    border: 2px solid #000;
+    padding: 5px;
+    border-collapse: collapse;
+}
+caption{
+    text-align: left;
+    padding: 10px;
+}
